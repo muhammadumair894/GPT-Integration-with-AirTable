@@ -21,7 +21,7 @@ let response = await fetch("https://api.openai.com/v1/completions", {
     "presence_penalty": 0
   }),
     headers: {
-      Authorization: "Bearer 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",
+      Authorization: "Bearer ",
       "Content-Type": "application/json"
     },
     method: "POST"
